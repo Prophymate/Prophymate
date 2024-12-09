@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prophymate.Prophymate&"  />
+</div>
+
+###
+
 <p align="center">I'm Prophymate and i from France.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
@@ -29,6 +35,12 @@
 ###
 
 <h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Prophymate&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 <!--
