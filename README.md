@@ -8,7 +8,6 @@
 
 <p align="left">I'm Prophymate and i from France.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-###
 ---
 
 <div align="center">
@@ -17,7 +16,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-###
 ---
 
 <h3 align="left">🛠 Language and tools</h3>
