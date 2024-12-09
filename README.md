@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Prophymate and i from France.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning Unreal Engine 5<br>-</p>
+<p align="left">I'm Prophymate and i from France.<br><br>- 🔭 I am currently a student in a programming school <br>- 📚 I am currently learning Unreal Engine 5</p>
 
 ---
 
