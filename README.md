@@ -11,7 +11,7 @@
 ---
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" height="40" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" height="20" alt="c logo"  /> https://www.instagram.com/clement.gaillard.2003/
 </div>
 
 ---
