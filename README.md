@@ -51,7 +51,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Prophymate/Prophymate/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Prophymate/Prophymate/output/snake.svg" alt="Snake animation" width="400" height="400">
 
 ###
 <!--
