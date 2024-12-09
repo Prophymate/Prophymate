@@ -38,7 +38,7 @@
   <img src="https://github.com/SFML/SFML/blob/master/examples/assets/logo.png" height="40" alt="sfml logo"  />
 </div>
 
-###
+---
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -49,10 +49,11 @@
   <img src="https://streak-stats.demolab.com?user=Prophymate&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+---
 
 <img src="https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
+---
 ###
 <!--
 **Prophymate/Prophymate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
