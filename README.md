@@ -51,7 +51,7 @@
 
 ###
 
-<object type="image/svg+xml" data="https://raw.githubusercontent.com/Prophymate/Prophymate/output/snake.svg" width="400" height="400"></object>
+[<object type="image/svg+xml" data="https://raw.githubusercontent.com/Prophymate/Prophymate/output/snake.svg" width="400" height="400"></object>](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
 ###
 <!--
