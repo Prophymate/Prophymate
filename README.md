@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/SFML/SFML/master/examples/resources/sfml-logo.png" height="40" alt="premierepro logo"  />
+  <img src="https://github.com/SFML/SFML/blob/master/examples/assets/icon.icns" height="40" alt="premierepro logo"  />
 </div>
 
 ###
