@@ -10,14 +10,13 @@
 
 ---
 
-<p align="left">
-      <a href="https://github.com/Prophymate?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Prophymate?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Prophymate?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Prophymate?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    <a href="https://www.instagram.com/clement.gaillard.2003">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Prophymate?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<div align="center">
+  <a href="clement.gaillard.cambe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/clement.gaillard.2003/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
 ---
 
