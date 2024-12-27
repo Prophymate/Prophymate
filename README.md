@@ -11,7 +11,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 
 ---
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">## 🛠️ Skills:</h3>
 
 ###
 
