@@ -3,9 +3,11 @@
 🎮 I'm a 4th-year student at a video game development school, deeply passionate about **Gameplay Programming**. Currently, I’m working on projects using **Unreal Engine 5**, striving to refine my skills in this exciting field.  
 
 ## 🌟 What I love doing:  
-- Creating engaging game mechanics.  
-- Designing interactive and dynamic systems.  
+- Creating engaging game mechanics.
 - Exploring new ways to enhance player experiences.  
+
+## 🚀 My Goal:  
+To become a skilled gameplay developer, capable of bringing innovative ideas to life and pushing the boundaries of video game design. 
 
 ---
 
