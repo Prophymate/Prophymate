@@ -32,7 +32,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 - **Instagram:** [https://www.instagram.com/clement.gaillard.2003/](https://www.instagram.com/clement.gaillard.2003/) 
 
 ###
-[![Mon Image](https://raw.https://github.com/Prophymate/GitImageReadMe/blob/main/pepeSurprise.png)
+[![Mon Image](https://github.com/Prophymate/GitImageReadMe/blob/main/pepeSurprise.png)
 
 
 <h3 align="left">🔥   My Stats :</h3>
