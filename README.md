@@ -27,7 +27,8 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
   <img src="https://github.com/SFML/SFML/blob/master/examples/assets/logo.png" height="40" alt="sfml logo"  />
 </div>
 
----
+## 📫 Contact Me:  
+- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com) 
 
 <h3 align="left">🔥   My Stats :</h3>
 
