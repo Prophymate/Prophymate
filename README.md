@@ -29,6 +29,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 
 ## 📫 Contact Me:  
 - **Email:** [clement.gaillard.cambe@gmail.com](mailto:clement.gaillard.cambe@gmail.com) 
+- **Instagram:** [https://www.instagram.com/clement.gaillard.2003/](mailto:https://www.instagram.com/clement.gaillard.2003/) 
 
 <h3 align="left">🔥   My Stats :</h3>
 
