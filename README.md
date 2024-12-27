@@ -9,9 +9,7 @@
 # 🚀 My Goal:  
 To become a skilled gameplay developer, capable of bringing innovative ideas to life and pushing the boundaries of video game design. 
 
----
-
-<h3 align="left">## 🛠️ Skills:</h3>
+## 🛠️ Skills:
 
 ###
 
