@@ -1,12 +1,8 @@
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">👋 Hi, I'm Clément Gaillard!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me :</h3>
-
-###
-
-<p align="left">I'm Prophymate and I from France.<br><br>- 🔭 I am currently a student in a programming school <br>- 📚 I am currently learning Unreal Engine 5</p>
+<p align="left">🎮 I'm a 4th-year student at a video game development school, deeply passionate about Gameplay Programming. Currently, I’m working on projects using Unreal Engine 5, striving to refine my skills in this exciting field.</p>
 
 ---
 
