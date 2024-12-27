@@ -28,7 +28,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 </div>
 
 ## 📫 Contact Me:  
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com) 
+- **Email:** [clement.gaillard.cambe@gmail.com](mailto:clement.gaillard.cambe@gmail.com) 
 
 <h3 align="left">🔥   My Stats :</h3>
 
