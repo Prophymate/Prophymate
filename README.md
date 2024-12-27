@@ -1,15 +1,11 @@
-<h1 align="center">👋 Hi, I'm Clément Gaillard!</h1>
+# 👋 Hi, I'm Clément Gaillard!  
 
-###
+🎮 I'm a 4th-year student at a video game development school, deeply passionate about **Gameplay Programming**. Currently, I’m working on projects using **Unreal Engine 5**, striving to refine my skills in this exciting field.  
 
-<p align="left">🎮 I'm a 4th-year student at a video game development school, deeply passionate about Gameplay Programming. Currently, I’m working on projects using Unreal Engine 5, striving to refine my skills in this exciting field.</p>
-
----
-
-<p align="left">🌟 What I love doing:
-Creating engaging game mechanics.
-Designing interactive and dynamic systems.
-Exploring new ways to enhance player experiences.</p>
+## 🌟 What I love doing:  
+- Creating engaging game mechanics.  
+- Designing interactive and dynamic systems.  
+- Exploring new ways to enhance player experiences.  
 
 ---
 
