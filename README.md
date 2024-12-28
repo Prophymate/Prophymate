@@ -32,7 +32,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 - **Instagram:** [https://www.instagram.com/clement.gaillard.2003/](https://www.instagram.com/clement.gaillard.2003/) 
 
 ## 💻 Games I developed solo:
-![Mon Image](https://github.com/Prophymate/GitImageReadMe/blob/main/tftimage2.png)
+![Mon Image](https://github.com/Prophymate/GitImageReadMe/blob/main/tftimage.png)
 
 
 <h3 align="left">🔥   My Stats :</h3>
