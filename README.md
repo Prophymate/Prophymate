@@ -31,9 +31,8 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 - **Email:** [clement.gaillard.cambe@gmail.com](mailto:clement.gaillard.cambe@gmail.com) 
 - **Instagram:** [https://www.instagram.com/clement.gaillard.2003/](https://www.instagram.com/clement.gaillard.2003/) 
 
-##
-
-Games I developed solo :
+## 💻 Games I developed solo:
+<img width="12" />
 ![Mon Image](https://github.com/Prophymate/GitImageReadMe/blob/main/tftLike.gif)
 
 
