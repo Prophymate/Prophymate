@@ -33,9 +33,9 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 
 ## 💻 Games I developed solo:
 - A TFT like:
-![Mon Image](https://github.com/Prophymate/GitImageReadMe/blob/main/tftimage.png)
+![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/tftimage.png)
 - A Space Invaders:
-![Mon Image](https://github.com/Prophymate/GitImageReadMe/blob/main/imageSpaceGame.png)
+![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/imageSpaceGame.png)
 
 ## 🔥 My Stats:
 <div align="center">
