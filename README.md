@@ -37,12 +37,6 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 - A Space Invaders:
 ![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/imageSpaceGame.png)
 
-## 🔥 My Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prophymate&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Prophymate&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 ---
 
 <img src="https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
