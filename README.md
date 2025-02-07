@@ -31,12 +31,17 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 - **Email:** [clement.gaillard.cambe@gmail.com](mailto:clement.gaillard.cambe@gmail.com) 
 - **Instagram:** [https://www.instagram.com/clement.gaillard.2003/](https://www.instagram.com/clement.gaillard.2003/) 
 
-## 💻 Games I developed solo:
-- A TFT like:
-![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/tftimage.png)
-- A Space Invaders:
-![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/imageSpaceGame.png)
-
+## 💻 Games I developed in team:
+- Mini Knight:
+![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/miniknight.PNG)
+- Simply Magic:
+![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/SimplyMagic.png)
+- Weird Quest:
+![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/WierdQuestImage.png)
+- Freak Squad:
+![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/freakSquad.PNG)
+- Crush Cars:
+![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/crushCars.PNG)
 ---
 
 <img src="https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
