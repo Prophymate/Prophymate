@@ -78,10 +78,10 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo6.png" alt="Autre Image" width="470"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo2.png" alt="Autre Image" width="470"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo3.png" alt="Autre Image" width="300"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo4.png" alt="Autre Image" width="300"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo5.png" alt="Autre Image" width="300"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo.png" alt="Autre Image" width="470"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo3.png" alt="Autre Image" width="310"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo4.png" alt="Autre Image" width="310"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo5.png" alt="Autre Image" width="310"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo.png" alt="Autre Image" width="420"></td>
   </tr>
   
 ---
