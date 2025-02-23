@@ -69,7 +69,11 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
   </tr>
 
 - Crush Cars : Arena Karting
-![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/crushCars.PNG)
+<tr>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/crushCars.PNG" alt="Autre Image" width="480"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq.png" alt="Autre Image" width="480"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq2.png" alt="Autre Image" width="480"></td>
+  </tr>
 ---
 
 <img src="https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
