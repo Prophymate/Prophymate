@@ -48,7 +48,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/SimplyMagic.png" alt="Autre Image" width="300"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/mm4.jpg" alt="Autre Image" width="300"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/MM.png" alt="Autre Image" width="300"></td>
-</tr>
+  </tr>
 
 - Weird Quest : RPC Adventure
 ![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/WierdQuestImage.png)
