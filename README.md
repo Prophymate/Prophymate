@@ -65,7 +65,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freakSquad.PNG" alt="Mon Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak2.png" alt="Autre Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak3.png" alt="Autre Image" width="480"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak.png" alt="Autre Image" width="480"></td>s
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak.png" alt="Autre Image" width="480"></td>
   </tr>
 
 - Crush Cars : Arena Karting
