@@ -54,18 +54,18 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 
 - Weird Quest : RPC Adventure
   <tr>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak4.png" alt="Mon Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/WierdQuestImage.png" alt="Autre Image" width="480"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak2.png" alt="Autre Image" width="480"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak3.png" alt="Autre Image" width="480"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak.png" alt="Autre Image" width="480"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq.png" alt="Autre Image" width="480"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq2.png" alt="Autre Image" width="480"></td>
   </tr>
 
 - Freak Squad : Beat them all
   <tr>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak4.png" alt="Mon Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freakSquad.PNG" alt="Mon Image" width="480"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq.png" alt="Autre Image" width="480"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq2.png" alt="Autre Image" width="480"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak2.png" alt="Autre Image" width="480"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak3.png" alt="Autre Image" width="480"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak.png" alt="Autre Image" width="480"></td>s
   </tr>
 
 - Crush Cars : Arena Karting
