@@ -40,11 +40,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 
 ## 💻 Games I developed in team:
 - Mini Knight : FPS Arena
-  <tr>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/miniknight.PNG" alt="Mon Image" width="300"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/miniknight.PNG" alt="Autre Image" width="300"></td>
-  </tr>
-
+ ![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/miniknight.PNG)
 - Simply Magic : Point n Click
 ![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/SimplyMagic.png)
 - Weird Quest : RPC Adventure
