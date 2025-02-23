@@ -53,7 +53,12 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
   </tr>
 
 - Weird Quest : RPC Adventure
-![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/WierdQuestImage.png)
+  <tr>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/WierdQuestImage.png" alt="Mon Image" width="480"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq.png" alt="Autre Image" width="480"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq2.png" alt="Autre Image" width="480"></td>
+  </tr>
+
 - Freak Squad : Beat them all
 ![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/freakSquad.PNG)
 - Crush Cars : Arena Karting
