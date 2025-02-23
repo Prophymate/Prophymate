@@ -49,7 +49,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
   </tr>
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/mm4.jpg" alt="Autre Image" width="300"></td>
-    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/MM.png" alt="Autre Image" width="310"></td>
+    <td><img src="https://github.com/Prophymate/Prophymate/blob/main/MM.png" alt="Autre Image" width="350"></td>
     <td></td> <!-- Optionnel, pour remplir l'espace si tu veux un alignement -->
   </tr>
 
