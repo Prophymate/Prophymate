@@ -28,8 +28,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 </div>
 
 ## 📫 Contact Me:  
-- **Email:** [clement.gaillard.cambe@gmail.com](mailto:clement.gaillard.cambe@gmail.com) 
-- **Instagram:** [https://www.instagram.com/clement.gaillard.2003/](https://www.instagram.com/clement.gaillard.2003/) 
+- **Email:** [clement.gaillard.cambe@gmail.com](mailto:clement.gaillard.cambe@gmail.com)
 
 ## 💻 Games I developed solo:
 - A TFT like :
