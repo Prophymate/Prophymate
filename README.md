@@ -31,14 +31,14 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 - **Email:** [clement.gaillard.cambe@gmail.com](mailto:clement.gaillard.cambe@gmail.com)
 
 ## 💻 Games I developed solo:
-- A TFT like :
+- A TFT like(SFML) :
 ![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/tftimage.png)
-- Spacia :
+- Spacia(SFML) :
 ![Mon Image](https://github.com/Prophymate/Prophymate/blob/main/imageSpaceGame.png)
 ---
 
 ## 💻 Games I developed in team:
-- Mini Knight : FPS Arena
+- Mini Knight(Unity) : FPS Arena
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/miniknight1.png" alt="Autre Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/miniknight3.png" alt="Autre Image" width="480"></td>
@@ -46,7 +46,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/miniknight.PNG" alt="Autre Image" width="480"></td>
   </tr>
 
-- Simply Magic : Point n Click
+- Simply Magic(SFML) : Point n Click
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/mm3.png" alt="Mon Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/mm2.png" alt="Autre Image" width="480"></td>
@@ -57,14 +57,14 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/MM.png" alt="Autre Image" width="485"></td>
   </tr>
 
-- Weird Quest : RPC Adventure
+- Weird Quest(SFML) : RPC Adventure
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/WierdQuestImage.png" alt="Autre Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq.png" alt="Autre Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq2.png" alt="Autre Image" width="480"></td>
   </tr>
 
-- Freak Squad : Beat them all
+- Freak Squad(SFML) : Beat them all
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak4.png" alt="Mon Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freakSquad.PNG" alt="Mon Image" width="480"></td>
@@ -73,13 +73,13 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/freak.png" alt="Autre Image" width="480"></td>
   </tr>
 
-- Crush Cars : Arena Karting
+- Crush Cars(Unity) : Arena Karting
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/crushCars.PNG" alt="Autre Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/crushcars2.png" alt="Autre Image" width="480"></td>
   </tr>
 
-- Lilo : Platformer
+- Lilo(SFML) : Platformer
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo6.png" alt="Autre Image" width="470"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo2.png" alt="Autre Image" width="470"></td>
@@ -88,10 +88,6 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo5.png" alt="Autre Image" width="310"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/lilo.png" alt="Autre Image" width="420"></td>
   </tr>
-  
----
-
-<img src="https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 ###
