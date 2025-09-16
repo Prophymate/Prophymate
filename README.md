@@ -57,7 +57,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/MM.png" alt="Autre Image" width="485"></td>
   </tr>
 
-- Weird Quest (SFML) : RPC Adventure
+- Weird Quest (SFML) : RPG Adventure
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/WierdQuestImage.png" alt="Autre Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/wq.png" alt="Autre Image" width="480"></td>
