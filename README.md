@@ -38,7 +38,7 @@ To become a skilled gameplay developer, capable of bringing innovative ideas to 
 ---
 
 ## 💻 Games I developed in team:
-- Mini Knight (Unity) : FPS Arena
+- Mini Knight (Unity) : FPS Arena Multiplayer
   <tr>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/miniknight1.png" alt="Autre Image" width="480"></td>
     <td><img src="https://github.com/Prophymate/Prophymate/blob/main/miniknight3.png" alt="Autre Image" width="480"></td>
